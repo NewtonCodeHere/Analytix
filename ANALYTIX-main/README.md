@@ -29,6 +29,10 @@ Home Page:
 
 ![Alt Text](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjacVZOh4gr5EEoO8ZkORAXp8F7frg3e2G1FtZ28UzkpeRxN4o1v-L-Jftp7J2tCS9rFDe2C4tawvZMudPnk8WJibH9PaKAZWCFIu1A-A1FkEjxbe29WHcQPvfjhZHrfmZsb_QMQjI0IRnzW3jlMY2ij9XTgGcDe6yIeTByHrjJ1kWVMVnTDkK54pFzQ_0/s1918/Screenshot%202024-01-12%20184025.png)
 
+Login page:
+![Login Page](static/images/login_page.png)
+
+
 
 Comapany Dashboard:
 
